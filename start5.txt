@@ -1,2 +1,3 @@
 Test Git Hello
 New information
+New information 2
