@@ -2,3 +2,4 @@ Test Git Hello
 New information
 New information 2
 New
+This is new line
